@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Guardian Articles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="motivation">Motivation</string>
+    <string name="exit">Exit</string>
+    <string name="quality">Quality</string>
+    <string name="dollar">Dollar</string>
+    <string name='title'>Title: fill_me</string>
+    <string name='url'>Url: fill_me</string>
+    <string name='name'>sectionName: fill_me</string>
+    <string name="today_motivation">The best preparation for tomorrow is doing your best today. H. Jackson Brown, Jr.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
